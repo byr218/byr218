@@ -1,4 +1,9 @@
 ## Hi there 👋
+1. Byron Engelbrecht bengelbrecht@my.waketech.edu
+2. GitHub account required for lesson
+3. Special repository that appears on your GitHub profile.
+4. Installed GitHub desktop and cloned the repository 
+
 
 <!--
 **byr218/byr218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
